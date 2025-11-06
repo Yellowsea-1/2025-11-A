@@ -1,0 +1,10 @@
+streamlit
+akshare
+pandas
+matplotlib
+plotly
+mplfinance
+httpx
+Pillow>=10.0.0
+requests>=2.31.0
+streamlit-js-eval>=0.1.5
